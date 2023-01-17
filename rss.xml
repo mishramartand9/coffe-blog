@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A journal for my expermients with coffee]]></description><link>https://coffee.blog.vidyarthi.dev</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 17 Jan 2023 17:44:09 GMT</lastBuildDate><item><title><![CDATA[And then there was Coffee]]></title><description><![CDATA[I love the narratives with great origin stories, and now I have decided to dedicate my time to chronicle my journey into the rabbit hole…]]></description><link>https://coffee.blog.vidyarthi.dev/origin-story/</link><guid isPermaLink="false">https://coffee.blog.vidyarthi.dev/origin-story/</guid><pubDate>Tue, 17 Jan 2023 04:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I love the narratives with great origin stories, and now I have decided to dedicate my time to chronicle my journey into the rabbit hole called &quot;Brewed Coffee”, hence I am obliged to include the origin story of this coffee affair&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A journal for my expermients with coffee]]></description><link>https://coffee.blog.vidyarthi.dev</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 17 Jan 2023 17:46:33 GMT</lastBuildDate><item><title><![CDATA[And then there was Coffee]]></title><description><![CDATA[I love the narratives with great origin stories, and now I have decided to dedicate my time to chronicle my journey into the rabbit hole…]]></description><link>https://coffee.blog.vidyarthi.dev/origin-story/</link><guid isPermaLink="false">https://coffee.blog.vidyarthi.dev/origin-story/</guid><pubDate>Tue, 17 Jan 2023 04:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I love the narratives with great origin stories, and now I have decided to dedicate my time to chronicle my journey into the rabbit hole called &quot;Brewed Coffee”, hence I am obliged to include the origin story of this coffee affair&lt;/p&gt;
 &lt;p&gt;The timeless verse of the Chef Ranveer Brar 🙏 &quot;Ye v India ki nhi hai&quot; holds true for Coffee also. However for coffee we at least know Baba Budan is to be thanked for blessing us with the joy of brewed delicacy.&lt;/p&gt;
 &lt;p&gt;Oh, and here&apos;s a short note from Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Coffee_production_in_India&quot;&gt;Coffee Production in India&lt;/a&gt;.&lt;/p&gt;
@@ -11,7 +11,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/c08c5/blog-icon.jpg&quot;
+    href=&quot;/static/2689f2a2da0183f9b604e9d6d65c8557/c08c5/blog-icon.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -24,11 +24,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Coffee&quot;
         title=&quot;&quot;
-        src=&quot;/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/828fb/blog-icon.jpg&quot;
-        srcset=&quot;/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/ff44c/blog-icon.jpg 158w,
-/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/a6688/blog-icon.jpg 315w,
-/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/828fb/blog-icon.jpg 630w,
-/coffe-blog/static/2689f2a2da0183f9b604e9d6d65c8557/c08c5/blog-icon.jpg 640w&quot;
+        src=&quot;/static/2689f2a2da0183f9b604e9d6d65c8557/828fb/blog-icon.jpg&quot;
+        srcset=&quot;/static/2689f2a2da0183f9b604e9d6d65c8557/ff44c/blog-icon.jpg 158w,
+/static/2689f2a2da0183f9b604e9d6d65c8557/a6688/blog-icon.jpg 315w,
+/static/2689f2a2da0183f9b604e9d6d65c8557/828fb/blog-icon.jpg 630w,
+/static/2689f2a2da0183f9b604e9d6d65c8557/c08c5/blog-icon.jpg 640w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
