@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/coffe-blog",
   siteMetadata: {
     title: `Blessings of Baba Budan`,
     author: {
@@ -16,7 +17,6 @@ module.exports = {
     },
     description: `A journal for my expermients with coffee`,
     siteUrl: `https://coffee.blog.vidyarthi.dev/`,
-    
   },
   plugins: [
     `gatsby-plugin-image`,
