@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Blessings of Baba Budan`,
+    title: `Hand Ground Arabica`,
     author: {
       name: `Martand`,
       summary: ` , student of culinary arts from internet university`,
@@ -115,7 +115,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo-color.png`, // This path is relative to the root of the site.
       },
     },
   ],
